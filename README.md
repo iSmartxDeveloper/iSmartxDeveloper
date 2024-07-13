@@ -83,3 +83,35 @@
 <p align="center">
   <img src="https://github.com/iSmartxDeveloper/iSmartxDeveloper/blob/main/assets/wave.gif" width="100%">
 </p>
+
+---
+
+### Fun Fact
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+</p>
+
+---
+
+### Spotify Playing
+
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Playing">
+</p>
+
+---
+
+### Snake Game Contribution
+
+<p align="center">
+  <img src="https://github.com/iSmartxDeveloper/iSmartxDeveloper/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
+</p>
+
+---
+
+### Dynamic Quotes
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes">
+</p>
