@@ -107,3 +107,35 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes">
 </p>
+
+---
+
+### Spotify Playing
+
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Playing">
+</p>
+
+---
+
+### Visitor Badge
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=iSmartxDeveloper.iSmartxDeveloper" alt="Visitor Badge">
+</p>
+
+---
+
+### GitHub Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=iSmartxDeveloper&bg_color=ffffff&color=4A90E2&line=4A90E2&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+### Coding Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iSmartxDeveloper&layout=compact&theme=radical" alt="Coding Stats">
+</p>
