@@ -86,26 +86,18 @@
 
 ---
 
-### Fun Fact
+### Animated Skills
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+  <img src="https://github.com/iSmartxDeveloper/iSmartxDeveloper/blob/main/assets/skills.gif" width="80%">
 </p>
 
 ---
 
-### Spotify Playing
+### Coding Activity Graph
 
 <p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Playing">
-</p>
-
----
-
-### Snake Game Contribution
-
-<p align="center">
-  <img src="https://github.com/iSmartxDeveloper/iSmartxDeveloper/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
+  <img src="https://github.com/iSmartxDeveloper/iSmartxDeveloper/blob/main/assets/activity.gif" width="80%">
 </p>
 
 ---
