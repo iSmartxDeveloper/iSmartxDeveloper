@@ -4,7 +4,9 @@
 
 I'm a passionate developer who loves working with Python, HTML, CSS, and JavaScript. I'm currently working on various exciting projects, including an MPD Player website and exploring APIs for different applications.
 
-![Coding Animation](https://your-image-link.com/coding.gif)
+<div align="center">
+  <img src="https://your-image-link.com/coding.gif" alt="Coding Animation" width="500"/>
+</div>
 
 ## 🚀 My Projects
 
@@ -12,7 +14,9 @@ I'm a passionate developer who loves working with Python, HTML, CSS, and JavaScr
 - **[Project 2: Pyrogram Bot](https://github.com/yourusername/project2)** - A bot built with Pyrogram that leverages the TgCrypto library for enhanced performance.
 - **[Project 3: ZEE5 Video Downloader](https://github.com/yourusername/project3)** - A Python script to download videos from ZEE5 using API requests.
 
-![Project Showcase Animation](https://your-image-link.com/project_showcase.gif)
+<div align="center">
+  <img src="https://your-image-link.com/project_showcase.gif" alt="Project Showcase Animation" width="500"/>
+</div>
 
 ## 💻 Technologies & Tools
 
@@ -27,7 +31,9 @@ I'm a passionate developer who loves working with Python, HTML, CSS, and JavaScr
 - Advanced Python techniques for API interaction
 - Enhancing web design skills with modern CSS frameworks
 
-![Learning Animation](https://your-image-link.com/learning.gif)
+<div align="center">
+  <img src="https://your-image-link.com/learning.gif" alt="Learning Animation" width="500"/>
+</div>
 
 ## 📫 Connect with Me
 
@@ -46,4 +52,6 @@ I'm a passionate developer who loves working with Python, HTML, CSS, and JavaScr
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
 
-![Thanks for visiting!](https://your-image-link.com/thanks.gif)
+<div align="center">
+  <img src="https://your-image-link.com/thanks.gif" alt="Thanks for visiting!" width="500"/>
+</div>
