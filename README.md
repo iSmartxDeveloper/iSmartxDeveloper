@@ -1,7 +1,11 @@
-<h1 align="center">Hi there, I'm iSmartxDeveloper! 👋</h1>
+<h1 align="center">👨‍💻 Hi there, I'm <span style="color:#00ff9f;">iSmartxDeveloper</span>! 👋</h1>
 
 <p align="center">
   <img src="https://github.com/iSmartxDeveloper/iSmartxDeveloper/blob/main/assets/hello.gif" width="50%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=435&lines=Full-stack+Developer;API+Automation+Expert;Learning+Never+Stops!;Terminal+Style+💻;Follow+My+Journey" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,23 +22,9 @@
 
 ---
 
-### About Me
-
-- 👨‍💻 I’m a passionate developer with a keen interest in web development and API integrations.
-- 🌱 Currently working on various projects involving HTML, CSS, and JavaScript.
-- 🚀 Always eager to learn and implement new technologies in my projects.
-
----
-
-### Skills
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
+### 🧠 About Me
+```bash
+> Developer: iSmartxDeveloper
+> Passion: Web Dev | APIs | Automation
+> Currently Learning: TailwindCSS, TypeScript
+> Motto: Keep building. Keep breaking. Keep learning.
