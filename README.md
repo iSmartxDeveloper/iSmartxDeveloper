@@ -18,36 +18,16 @@
 
 ---
 
-<div style="background-color: #1e1e1e; color: #00ff00; font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace; padding: 20px; border-radius: 8px;">
-  <p style="margin: 0;">
-    <span style="color: #ffffff;">iSmartxDeveloper@github</span>:$ <span style="color: #ffffff;">cat about_me.txt</span>
-  </p>
-  <p style="margin: 0; color: #00ff00;">
-    - 👨‍💻 I’m a passionate developer with a keen interest in web development and API integrations.<br>
-    - 🌱 Currently working on various projects involving HTML, CSS, and JavaScript.<br>
-    - 🚀 Always eager to learn and implement new technologies in my projects.
-  </p>
-  <br>
-  <p style="margin: 0;">
-     <span style="color: #ffffff;">iSmartxDeveloper@github</span>:$ <span style="color: #ffffff;">ls skills</span>
-  </p>
-   <p style="margin: 0; color: #cyan;">
-    python javascript html5 css3 react nodejs git docker ...
-  </p>
-   <br>
-   <p style="margin: 0;">
-    <span style="color: #ffffff;">iSmartxDeveloper@github</span>:$ <span style="color: #ffffff;">echo "Let's connect and build something amazing!"</span>
-  </p>
-   <p style="margin: 0; color: #yellow;">
-    Let's connect and build something amazing!
-  </p>
-</div>
+### About Me
+
+- 👨‍💻 I’m a passionate developer with a keen interest in web development and API integrations.
+- 🌱 Currently working on various projects involving HTML, CSS, and JavaScript.
+- 🚀 Always eager to learn and implement new technologies in my projects.
 
 ---
 
-### Technologies & Tools
+### Skills
 
-<p align="center">
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -56,8 +36,5 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-</p>
 
 ---
-
-<!-- Add more sections here if needed, like GitHub Stats, Recent Activity etc. -->
